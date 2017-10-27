@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Indie Flower', cursive;
+
+
+
+}
+.reponse{
+    display: flex;
+    flex-direction: row;
+    padding: 5px 5px;
+    justify-content:center;
+}
+.mot{
+    display: flex;
+    flex-direction: row;
+    padding: 5px 5px;
+    justify-content:center;
+}
+.bouton{
+
+    display: flex;
+    flex-direction: row;
+    margin: 2px 2px;
+    justify-content:center;
+}
+.lettre{
+    display: flex;
+    margin: 4px 4px;
+    padding: 0px 5px;
+    border: solid black 1px;
+}
+
+.txterror{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+
+button{
+    font-family: 'Indie Flower', cursive;
+    width :150px;
+    height: 50px;
+}
+
